@@ -1,5 +1,6 @@
 
-![1](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/2bd39863-067b-42d9-9e82-27bfaea7060a)
+<img src="https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/c49d15fb-0a39-4eff-8d53-bb0d6155147f" width="800" />
+
 
 
 # bundestagsabgeordnete_socialmedia_accounts
