@@ -1,4 +1,10 @@
+
+![1](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/2bd39863-067b-42d9-9e82-27bfaea7060a)
+
+
 # bundestagsabgeordnete_socialmedia_accounts
+
+
 Analyze the social media accounts of all the bundestagsabgeordneten
 On the website of The Bundestag every current member has an own page. On this page most of them have listet there social media accounts. Ive build a scraper that first generates a link list of all members and than saves the social media accounts of each one.
 
