@@ -26,5 +26,6 @@ to clean up the data i compard all the words with 'fuzzywuzzy' and grouped simil
 | Anzahl abgeordneter       | 79          | 200  | 41          | 120         | 93          | 208         | 6            |
 | Accounts pro abgeordneter | 3,594936709 | 3,38 | 3,463414634 | 3,716666667 | 4,247311828 | 3,538461538 | 3,5          |
 
-![image](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/980b1b69-e513-4a9a-a731-c762710872b2)
+![image](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/9586cc53-5073-4d0b-be60-d0f76b58efe0)
+
 
