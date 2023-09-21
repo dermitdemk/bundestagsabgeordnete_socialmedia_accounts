@@ -3,10 +3,11 @@
 
 
 
-# bundestagsabgeordnete_socialmedia_accounts
+# bundestagsabgeordnete_socialmedia_accounts.
 
 
-Analyze the social media accounts of all the bundestagsabgeordneten
+Analyzing the social media accounts of all the bundestagsabgeordneten
+
 On the website of The Bundestag every current member has an own page. On this page most of them have listet there social media accounts. Ive build a scraper that first generates a link list of all members and than saves the social media accounts of each one.
 
 With this data i created a list of each party and on which platform they have how many accounts.
