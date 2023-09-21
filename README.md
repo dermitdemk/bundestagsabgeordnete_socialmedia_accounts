@@ -37,7 +37,8 @@ to clean up the data i compard all the words with 'fuzzywuzzy' and grouped simil
 ![image](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/f1cb3a92-5774-4c4a-a571-68c03949d6c2)
 
 
-![image](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/62ded045-4daa-4d30-84fd-85b441a8d598)
+![image](https://github.com/dermitdemk/bundestagsabgeordnete_socialmedia_accounts/assets/60017842/d148b9d6-889a-433a-9dc6-dc33d7079c12)
+
 
 
 
